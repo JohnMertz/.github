@@ -23,7 +23,7 @@ I am fortunate enough to be in a stable enough situation that I'm able to devote
 You can look at my [LinkedIn](https://www.linkedin.com/in/mertzjohn) for a (slightly) more polished, professional profile. I'm pretty good at, or at least enjoy these things:
 
 - 🐪 Perl - I know it is not sexy anymore, but man is it fun! 
-- 🌐HTML/JS - I've been building websites for fun longer than I've done anything else in tech and continue to write them from scratch to this day.
+- 🌐 HTML/JS - I've been building websites for fun longer than I've done anything else in tech and continue to write them from scratch to this day.
 - 🥱 PHP, Python, Shell - Much less enthusiastic about these, but I know how to use them fairly well.
 - 🐧 Linux - I've been a full-time Linux nerd for almost 15 years and have spent pretty much my entire working life using, administering and developing in Linux environments.
 - 📨 Email - I've spent more than 10 years in email security, including administering various MTAs, IMAP and LDAP servers in a Linux environment.
@@ -35,4 +35,4 @@ I have not really had social media since I got rid of Facebook immediately after
 
 - 🐘 [Mastodon](https://@mertz@fosstodon.org)
 - 💩 [LinkedIn](https://www.linkedin.com/in/mertzjohn)
-- 📨 [Email](mailto:contact+github@john.me.tz?subject=I%20found%20you%20on%GitHub)
+- 📨 [Email](mailto:contact+github@john.me.tz?subject=I%20found%20you%20on%20GitHub)
