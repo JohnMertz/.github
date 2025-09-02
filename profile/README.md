@@ -34,6 +34,6 @@ You can look at my [LinkedIn](https://www.linkedin.com/in/mertzjohn) for a (slig
 I have not really had social media since I got rid of Facebook immediately after high school, so I'm a bit hard to get in touch with. If you want to get in touch with me, I'll probably see your messages on one of these:
 
 - 🐘 [Mastodon](https://@mertz@fosstodon.org)
-- 🎮 [Discord](https://discord.com/users/john.me.tz) (mostly just in the [Universal Blue](https://discord.gg/WEu6BdFEtp) server)
+- 🎮 [Discord](https://discordapp.com/users/728364225680113706) (mostly just in the [Universal Blue](https://discord.gg/WEu6BdFEtp) server)
 - 💩 [LinkedIn](https://www.linkedin.com/in/mertzjohn)
 - 📨 [Email](mailto:contact+github@john.me.tz?subject=I%20found%20you%20on%20GitHub)
