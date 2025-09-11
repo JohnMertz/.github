@@ -12,7 +12,7 @@ I am fortunate enough to be in a stable enough situation that I'm able to devote
 - 🌱 planning [a simplified fork](https://github.com/SpamTagger/SpamTagger) of MailCleaner which will be more maintainable and dedicated to just filtering email and nothing else.
 - ⚛️ playing around with building my own atomic ([aka "immutable"](https://universal-blue.discourse.group/t/good-explanation-on-why-we-should-use-atomic-instead-of-immutable/1833)) operating system for [personal use](https://github.com/JohnMertz/dogwood) and one for [SpamTagger](https://github.com/SpamTagger/SpamTagger-Bootc).
 - 📨 working on smaller personal coding projects which will see the light of day when they are somewhat less atrocious.
-- 🧑‍🎓 [practicing](https://github.com/JohnMertz/exercism-solutions), [mentoring on](https://exercism.org/profiles/JohnMertz/testimonials) and contributing to [Exercism](https://exercism.org).
+- 🧑‍🎓 [practicing](https://github.com/JohnMertz/exercism-solutions), [mentoring on](https://exercism.org/profiles/JohnMertz/testimonials) and [contributing](https://github.com/JohnMertz?org=exercism&year_list=1) to [Exercism](https://exercism.org).
 - 🤝 contributing to other projects when I can.
 - 🥼 building out my homelab and smarthome.
 - 👷‍♂️ renovating my house to be airtight and as close as is reasonable to net-zero.
@@ -26,7 +26,7 @@ You can look at my [LinkedIn](https://www.linkedin.com/in/mertzjohn) for a (slig
 - 🌐 HTML/JS - I've been building websites for fun for longer than I've done anything else in tech and continue to write them from scratch to this day.
 - 🥱 PHP, Python, Shell - Much less enthusiastic about these, but I know how to use them fairly well.
 - 🐧 Linux - I've been a full-time Linux nerd for almost 15 years and have spent pretty much my entire working life using, administering and developing in Linux environments.
-- 📨 Email - I've spent more than 10 years in email security, including administering various MTAs, IMAP and LDAP servers in a Linux environment as well as writing programs to parse and modify email.
+- 📨 Email - I've spent more than 10 years in email security, including administering various MTA, IMAP and LDAP servers in a Linux environment as well as writing programs to parse and modify email.
 - 📦 Containers and Virtualization - I live my day-to-day life on my own container-based OS, inside additional development containers, as I build containerized applications and VMs.
 
 ## 💬 Where we can chat 💬
