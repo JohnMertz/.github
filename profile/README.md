@@ -10,9 +10,9 @@ I am fortunate enough to be in a stable enough situation that I'm able to devote
 
 - 📭 reviving MailCleaner through an entirely open source [fork](https://github.com/SpamTagger/SpamTagger-Plus) through the new organization [SpamTagger](https://github.com/SpamTagger).
 - 🌱 planning [a simplified fork](https://github.com/SpamTagger/SpamTagger) of MailCleaner which will be more maintainable and dedicated to just filtering email and nothing else.
-- ⚛️ playing around with building my own atomic ([aka "immutable"](https://universal-blue.discourse.group/t/good-explanation-on-why-we-should-use-atomic-instead-of-immutable/1833)) operating systems for [personal use](https://github.com/JohnMertz/dogwood) and for [SpamTagger](https://github.com/SpamTagger/SpamTagger-Bootc).
+- ⚛️ playing around with building my own atomic ([aka "immutable"](https://universal-blue.discourse.group/t/good-explanation-on-why-we-should-use-atomic-instead-of-immutable/1833)) operating system for [personal use](https://github.com/JohnMertz/dogwood) and one for [SpamTagger](https://github.com/SpamTagger/SpamTagger-Bootc).
 - 📨 working on smaller personal coding projects which will see the light of day when they are somewhat less atrocious.
-- 🧑‍🎓 [practicing](https://github.com/JohnMertz/exercism-solutions), mentoring on and contributing to [Exercism](https://exercism.org).
+- 🧑‍🎓 [practicing](https://github.com/JohnMertz/exercism-solutions), [mentoring on](https://exercism.org/profiles/JohnMertz/testimonials) and contributing to [Exercism](https://exercism.org).
 - 🤝 contributing to other projects when I can.
 - 🥼 building out my homelab and smarthome.
 - 👷‍♂️ renovating my house to be airtight and as close as is reasonable to net-zero.
